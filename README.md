@@ -1,5 +1,5 @@
 # Basic-Machine-Translation
-I construct a machine translation system and a locality sensitive hashing table for document search based on cosine similarities in this short project.
+In this small project, I build a machine translation system and a locality sensitive hashing table for document search based on cosine similarities. The system converts words from English to Spanish.
 
 # libraries
 - gensim
